@@ -2,7 +2,7 @@
 
 Very simple cross-platform (windows, mac, linux) arena implementation.
 
-```
+```c
 #include <stdio.h>
 #define GLADIATOR_IMPLEMENTATION
 #include "gladiator.h"
@@ -39,7 +39,7 @@ int main(int argc, const char *argv[]) {
 ```
 Very simple cross-platform arena implementation
 
-Copyright (C) <year> George Watson
+Copyright (C) 2024 George Watson
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
